@@ -1,0 +1,15 @@
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\SEMANA 09 GUIAS\FUNCIONES DE FECHA Y HORA JOSUE BRYAN HERNANDEZ ZELAYA\Ejercicio2\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
